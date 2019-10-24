@@ -1,0 +1,10 @@
+[package]
+name = "winit-windows-events-bug"
+version = "0.1.0"
+authors = ["Maciej Makowski <maciejm.github<at>cfiet.net>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+winit = "0.20.0-alpha4"
